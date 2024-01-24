@@ -1,4 +1,4 @@
-##Hackathon 2024 Kick Start Guide
+## Hackathon 2024 Kick Start Guide
 This is a getting started guide for Hackathon 2024
 
 Getting Started:
